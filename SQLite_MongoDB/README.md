@@ -19,7 +19,7 @@ Neste desafio você irá implementar uma aplicação de integração com SQLite 
 - Aplicação com a definição do esquema por meio das classes usando SQLAlchemy
 - Inserção de um conjunto de dados mínimo para manipulação das informações
 - Execução de métodos de recuperação de dados via SQLAlchemy
-
+--------------------------------------------------------------------------
 * Parte 2 – Implementando um Banco de Dados NoSQL com Pymongo
 
 Você irá implementar um banco NoSQL com mongodb para fornecer uma visão agregada do modelo relacional. Sendo assim, as informações de cliente e contas existentes estão contidas dentro de documentos de acordo com cliente.
