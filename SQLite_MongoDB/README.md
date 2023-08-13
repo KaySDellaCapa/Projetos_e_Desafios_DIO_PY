@@ -4,7 +4,7 @@ Neste desafio você irá implementar uma aplicação de integração com SQLite 
 Python
 - Full-Stack
 - Avançado
-- 
+- Full-Stack
 Desafio desenvolvido por:
 - Juliana Mascarenhas - Data Scientist, DIO
 
