@@ -1,0 +1,5 @@
+* O TCP (Transmission Control Protocol) ou Protocolo de Controle de Transmissão é um
+dos protocolos de comunicação, que dão suporte a rede global internet, verificando
+se os dados são enviados na sequência correta e sem erros
+
+* Nosso programa verificará se dados são enviados de maneira íntegra
