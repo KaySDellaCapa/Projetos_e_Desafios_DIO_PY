@@ -1,7 +1,7 @@
 * Desenvolvida uma REST API completa pela primeira vez
-
+------------------------------
 * Introdução:
-
+-------------------------------------------
 * O QUE É UMA API?
 * Conjunto de rotinas para acesso a um aplicativo/software/plataforma baseado na
 Web
